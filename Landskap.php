@@ -1,0 +1,1 @@
+<?php $landskap = "Sm;Småland;Up;Uppland;Sk#Skåne;" ?>
